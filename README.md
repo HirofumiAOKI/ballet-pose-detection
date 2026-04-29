@@ -1,0 +1,2 @@
+# ballet-pose-detection
+バレエおよびダンス研究のためのMediaPipeベースの姿勢検出ツール
